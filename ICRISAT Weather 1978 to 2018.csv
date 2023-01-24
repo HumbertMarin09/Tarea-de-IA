@@ -1,4 +1,4 @@
-﻿Station,Date,MaxT,MinT,RH1,RH2,Wind,Rain,SSH,Evap,Radiation,FAO56_ET,Lat,Lon,Cum_Rain,,,,,,,,,
+Station,Date,MaxT,MinT,RH1,RH2,Wind,Rain,SSH,Evap,Radiation,FAO56_ET,Lat,Lon,Cum_Rain,,,,,,,,,
 ICRISAT,01/01/1978,29,14,68,31,6,0,10,4,18,4,18,78,0,,,,,,,,,
 ICRISAT,02/01/1978,29,16,79,33,6,0,10,5,17,4,18,78,0,,,,,,,,,
 ICRISAT,03/01/1978,29,15,86,37,5,0,9,5,15,3,18,78,0,,,,,,,,,
